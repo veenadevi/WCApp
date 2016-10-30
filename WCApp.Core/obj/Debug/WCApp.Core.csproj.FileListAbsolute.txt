@@ -1,0 +1,10 @@
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\bin\Debug\WCApp.Core.dll
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\bin\Debug\WCApp.Core.pdb
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\obj\Debug\WCApp.Core.dll
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\obj\Debug\WCApp.Core.pdb
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\obj\Debug\WCApp.Core.dll.mdb
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\bin\Debug\WCApp.Core.dll.mdb
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\obj\Debug\WCApp.Core.dll.mdb
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\bin\Debug\WCApp.Core.dll.mdb
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\obj\Debug\WCApp.Core.dll.mdb
+C:\Users\wistcc\Documents\Visual Studio 2015\Projects\WCApp\WCApp.Core\bin\Debug\WCApp.Core.dll.mdb
