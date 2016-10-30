@@ -2,8 +2,10 @@ Components
 packages
 Resource.designer.cs
 
-bin
-obj
+WCAPP/bin
+WCAPP/obj
+WCAPP.Core/bin
+WCAPP.Core/obj
 
 *.pidb
 *.userprefs
@@ -15,3 +17,5 @@ obj
 *.pfx
 
 *_ReSharper.*/
+
+.vs/
