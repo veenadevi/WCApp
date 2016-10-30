@@ -10,7 +10,7 @@ using WCApp.Utility;
 
 namespace WCApp
 {
-    [Activity(Label = "Take a picture with WC")]
+    [Activity(Label = "@string/TakePicture")]
     public class TakePictureActivity : Activity
     {
         private ImageView _rayPictureImageView;

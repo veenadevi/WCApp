@@ -6,7 +6,7 @@ using Android.Widget;
 
 namespace WCApp
 {
-    [Activity(Label = "Winner Comercial", MainLauncher = true)]
+    [Activity(Label = "@string/ApplicationName", MainLauncher = true)]
     public class MainActivity : Activity
     {
         private Button _orderButton;

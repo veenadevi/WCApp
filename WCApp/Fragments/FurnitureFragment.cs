@@ -1,4 +1,3 @@
-using Android.App;
 using Android.OS;
 using Android.Views;
 using WCApp.Adapters;
@@ -7,7 +6,6 @@ namespace WCApp.Fragments
 {
     public class FurnitureFragment : BaseFragment
     {
-
         public override void OnActivityCreated(Bundle savedInstanceState)
         {
             base.OnActivityCreated(savedInstanceState);

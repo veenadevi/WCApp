@@ -9,7 +9,7 @@ using WCApp.Utility;
 
 namespace WCApp
 {
-    [Activity(Label = "Product details")]
+    [Activity(Label = "@string/ProductDetail")]
     public class ProductDetailActivity : Activity
     {
         private ImageView _productImageView;
@@ -61,7 +61,7 @@ namespace WCApp
         {
             _productNameTextView.Text = _selectedproduct.Name;
             _descriptionTextView.Text = _selectedproduct.Description;
-            _priceTextView.Text = "Price: " + _selectedproduct.Price;
+            _priceTextView.Text = Resources.GetString(Resource.String.Price) + ": " + _selectedproduct.Price;
 
             var imageBitmap = ImageHelper.GetImageBitmapFromUrl(_selectedproduct.ImgUrl);
             _productImageView.SetImageBitmap(imageBitmap);

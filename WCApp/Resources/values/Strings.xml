@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
-    <string name="ApplicationName">WCApp</string>
+  <string name="TakePicture">Take a picture with WC</string>
+  <string name="ApplicationName">Winner Comercial</string>
+  <string name="Offers">Offers</string>
+  <string name="Electronics">Electronics</string>
+  <string name="Furniture">Furniture</string>
+  <string name="ProductDetail">Product details</string>
+  <string name="Price">Price</string>
+  <string name="About">About</string>
+  <string name="YouHaveAdded">You\'ve added</string>
+  <string name="TimeThe">time(s) the</string>
+  <string name="WantToCall">Want to call WC? Tap on the phone number below!</string>
+  <string name="OpenGMaps">Open Google Maps app for WC!</string>
+  <string name="Order">Order!</string>
+  <string name="LaunchCamera">Launch the camera!</string>
+  <string name="Confirmation">Confirmation</string>
+  <string name="ProductList">Product list</string>
 </resources>

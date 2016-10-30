@@ -179,11 +179,53 @@ namespace WCApp
 		public partial class String
 		{
 			
+			// aapt resource value: 0x7f040007
+			public const int About = 2130968583;
+			
 			// aapt resource value: 0x7f040001
 			public const int ApplicationName = 2130968577;
 			
+			// aapt resource value: 0x7f04000e
+			public const int Confirmation = 2130968590;
+			
+			// aapt resource value: 0x7f040003
+			public const int Electronics = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int Furniture = 2130968580;
+			
+			// aapt resource value: 0x7f04000d
+			public const int LaunchCamera = 2130968589;
+			
+			// aapt resource value: 0x7f040002
+			public const int Offers = 2130968578;
+			
+			// aapt resource value: 0x7f04000b
+			public const int OpenGMaps = 2130968587;
+			
+			// aapt resource value: 0x7f04000c
+			public const int Order = 2130968588;
+			
+			// aapt resource value: 0x7f040006
+			public const int Price = 2130968582;
+			
+			// aapt resource value: 0x7f040005
+			public const int ProductDetail = 2130968581;
+			
+			// aapt resource value: 0x7f04000f
+			public const int ProductList = 2130968591;
+			
 			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			public const int TakePicture = 2130968576;
+			
+			// aapt resource value: 0x7f040009
+			public const int TimeThe = 2130968585;
+			
+			// aapt resource value: 0x7f04000a
+			public const int WantToCall = 2130968586;
+			
+			// aapt resource value: 0x7f040008
+			public const int YouHaveAdded = 2130968584;
 			
 			static String()
 			{

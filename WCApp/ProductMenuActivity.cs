@@ -1,21 +1,12 @@
 using Android.App;
-using Android.Content;
 using Android.OS;
-using WCApp.Core.Service;
 using WCApp.Fragments;
 
 namespace WCApp
 {
-    [Activity(Label = "ProductMenuActivity")]
+    [Activity(Label = "@string/ProductList")]
     public class ProductMenuActivity : Activity
     {
-        private readonly ProductService _productService;
-
-        public ProductMenuActivity()
-        {
-            _productService = new ProductService();
-        }
-
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -24,9 +15,9 @@ namespace WCApp
 
             ActionBar.NavigationMode = ActionBarNavigationMode.Tabs;
 
-            AddTab("Offers", Resource.Drawable.OffersIcon, new OffersFragment());
-            AddTab("Electronics", Resource.Drawable.ElectronicsIcon, new ElectronicsFragment());
-            AddTab("Furniture", Resource.Drawable.FurnitureIcon, new FurnitureFragment());
+            AddTab(Resources.GetString(Resource.String.Offers), Resource.Drawable.OffersIcon, new OffersFragment());
+            AddTab(Resources.GetString(Resource.String.Electronics), Resource.Drawable.ElectronicsIcon, new ElectronicsFragment());
+            AddTab(Resources.GetString(Resource.String.Furniture), Resource.Drawable.FurnitureIcon, new FurnitureFragment());
         }
         private void AddTab(string tabText, int iconResourceId, Fragment view)
         {

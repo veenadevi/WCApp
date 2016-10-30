@@ -46,8 +46,9 @@ namespace WCApp.Fragments
                 var selectedProduct = ProductService.GetProductById(data.GetIntExtra("selectedProductId", 0));
 
                 var dialog = new AlertDialog.Builder(Context);
-                dialog.SetTitle("Confirmation");
-                dialog.SetMessage($"You've added {data.GetIntExtra("amount", 0)} time(s) the {selectedProduct.Name}");
+                dialog.SetTitle(Resources.GetString(Resource.String.Confirmation));
+                dialog.SetMessage(Resources.GetString(Resource.String.YouHaveAdded) + $" {data.GetIntExtra("amount", 0)} " + Resources.GetString(Resource.String.TimeThe) +
+                                  $" {selectedProduct.Name}");
                 dialog.Show();
             }
         }

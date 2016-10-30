@@ -6,7 +6,7 @@ using System;
 
 namespace WCApp
 {
-    [Activity(Label = "About Winner Comercial")]
+    [Activity(Label = "@string/About")]
     public class AboutActivty : Activity
     {
         private TextView _phoneNumberTextView;

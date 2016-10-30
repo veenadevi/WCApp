@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="TakePicture">Tomar una foto con WC</string>
+  <string name="ApplicationName">Winner Comercial</string>
+  <string name="Offers">Ofertas</string>
+  <string name="Electronics">Electrónico</string>
+  <string name="Furniture">Muebles</string>
+  <string name="ProductDetail">Detalles de producto</string>
+  <string name="Price">Precio</string>
+  <string name="About">Sobre nosotros</string>
+  <string name="YouHaveAdded">Has agregado</string>
+  <string name="TimeThe">veces el producto</string>
+  <string name="WantToCall">Quieres llamar a WC? toca el número debajo!</string>
+  <string name="OpenGMaps">Abre Google Maps para WC!</string>
+  <string name="Order">Cotizar!</string>
+  <string name="LaunchCamera">Usa la camara!</string>
+  <string name="Confirmation">Confirmación</string>
+  <string name="ProductList">Lista de productos</string>
+</resources>
