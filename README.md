@@ -1,6 +1,6 @@
 # WCApp
 
-![](http://i.imgflip.com/1d945y.gif)
+![](http://i.imgflip.com/1d94uf.gif)
 
 ## Functionalities implemented
 
