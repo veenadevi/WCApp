@@ -1,5 +1,7 @@
 # WCApp
 
+![](http://i.imgflip.com/1d945y.gif)
+
 ## Functionalities implemented
 
 * Tabs
@@ -17,3 +19,4 @@
 * Be able to actually submit an order
 * Side menu
 * Show Google map inside the app using the Google Play Services component by Xamarin
+* Improve style
